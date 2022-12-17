@@ -1,0 +1,24 @@
+public enum WeaponType {;
+    private String ColdWeapon;
+    private String arrow;
+
+    private String WeaponName;
+
+
+
+    public String getColdWeapon() {
+        return ColdWeapon;
+    }
+
+    public void setColdWeapon(String coldWeapon) {
+        ColdWeapon = coldWeapon;
+    }
+
+    public String getArrow() {
+        return arrow;
+    }
+
+    public void setArrow(String arrow) {
+        this.arrow = arrow;
+    }
+}
