@@ -1,5 +1,6 @@
 public enum WeaponType {;
     private String ColdWeapon;
+    
     private String arrow;
 
     private String WeaponName;
